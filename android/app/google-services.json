@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349288109231",
+    "project_id": "expensetrackerapp-d4ad0",
+    "storage_bucket": "expensetrackerapp-d4ad0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349288109231:android:62c24d82570e2caac0305a",
+        "android_client_info": {
+          "package_name": "com.example.traffic_light_simulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-XmSTv7i3MFawmQxBbUKBG2RcxTkPsgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
